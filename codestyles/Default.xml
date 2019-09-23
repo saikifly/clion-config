@@ -1,0 +1,8 @@
+<code_scheme name="Default" version="173">
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="c" header="h" fileNamingConvention="CAMEL_CASE" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
+</code_scheme>

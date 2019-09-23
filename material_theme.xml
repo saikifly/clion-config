@@ -4,7 +4,9 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="5a3ed0a0:16d4c8dd37c:-8000" />
     <option name="version" value="4.5.1" />
